@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [04/Nov/2017:16:22:46 +0700] "GET /FoodQuality/feedback/QID00001 HTTP/1.1" 200 12 http-bio-8080-exec-1 802
+0:0:0:0:0:0:0:1 - - [04/Nov/2017:16:25:57 +0700] "GET /FoodQuality/getfeedback/QID00001 HTTP/1.1" 200 12 http-bio-8080-exec-1 1089
+0:0:0:0:0:0:0:1 - - [04/Nov/2017:17:48:00 +0700] "GET /FoodQuality/qrcode/QID00001 HTTP/1.1" 200 621 http-bio-8080-exec-1 1959
+0:0:0:0:0:0:0:1 - - [04/Nov/2017:17:52:11 +0700] "GET /FoodQuality/qrcode/QID00001 HTTP/1.1" 200 621 http-bio-8080-exec-1 2268
+0:0:0:0:0:0:0:1 - - [04/Nov/2017:17:55:22 +0700] "GET /FoodQuality/qrcode/QID00001 HTTP/1.1" 200 1617 http-bio-8080-exec-1 1897

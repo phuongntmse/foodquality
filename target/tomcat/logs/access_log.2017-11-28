@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [28/Nov/2017:22:42:25 +0700] "GET /FoodQuality/login/dconkling0/12345678@Ab HTTP/1.1" 200 233 http-bio-8080-exec-1 470
+0:0:0:0:0:0:0:1 - - [28/Nov/2017:22:43:23 +0700] "POST /FoodQuality/register HTTP/1.1" 415 1048 http-bio-8080-exec-3 14
+0:0:0:0:0:0:0:1 - - [28/Nov/2017:22:43:38 +0700] "POST /FoodQuality/register HTTP/1.1" 417 54 http-bio-8080-exec-5 504
+0:0:0:0:0:0:0:1 - - [28/Nov/2017:22:43:53 +0700] "POST /FoodQuality/register HTTP/1.1" 200 16 http-bio-8080-exec-7 419
+0:0:0:0:0:0:0:1 - - [28/Nov/2017:22:45:03 +0700] "POST /FoodQuality/register HTTP/1.1" 200 16 http-bio-8080-exec-9 422
+0:0:0:0:0:0:0:1 - - [28/Nov/2017:22:45:59 +0700] "POST /FoodQuality/search/bean HTTP/1.1" 405 1047 http-bio-8080-exec-1 10
+0:0:0:0:0:0:0:1 - - [28/Nov/2017:22:46:04 +0700] "GET /FoodQuality/search/bean HTTP/1.1" 200 995 http-bio-8080-exec-3 249

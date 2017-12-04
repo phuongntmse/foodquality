@@ -1,0 +1,17 @@
+0:0:0:0:0:0:0:1 - - [02/Dec/2017:00:36:49 +0700] "GET /FoodQuality/registerPTS_ID/ID00001 HTTP/1.1" 200 277 http-bio-8080-exec-1 466
+0:0:0:0:0:0:0:1 - - [02/Dec/2017:00:39:29 +0700] "GET /FoodQuality/registerProduct_ID/ID00001 HTTP/1.1" 200 219 http-bio-8080-exec-3 251
+0:0:0:0:0:0:0:1 - - [02/Dec/2017:00:41:15 +0700] "GET /FoodQuality/registerProduct HTTP/1.1" 200 221 http-bio-8080-exec-5 234
+0:0:0:0:0:0:0:1 - - [02/Dec/2017:00:49:04 +0700] "GET /FoodQuality/getAllRegisterProduct HTTP/1.1" 200 221 http-bio-8080-exec-1 450
+0:0:0:0:0:0:0:1 - - [02/Dec/2017:00:50:56 +0700] "POST /FoodQuality/registerProduct HTTP/1.1" 200 7 http-bio-8080-exec-3 569
+0:0:0:0:0:0:0:1 - - [02/Dec/2017:00:52:07 +0700] "GET /FoodQuality/getAllRegisterProduct HTTP/1.1" 200 418 http-bio-8080-exec-5 225
+0:0:0:0:0:0:0:1 - - [02/Dec/2017:00:53:05 +0700] "GET /FoodQuality/approveProduct/ID00001 HTTP/1.1" 200 16 http-bio-8080-exec-7 4306
+0:0:0:0:0:0:0:1 - - [02/Dec/2017:00:54:04 +0700] "GET /FoodQuality/registerPTS_ID/ID00001 HTTP/1.1" 200 277 http-bio-8080-exec-9 233
+0:0:0:0:0:0:0:1 - - [02/Dec/2017:00:55:26 +0700] "GET /FoodQuality/registerProduct_ID/ID00002 HTTP/1.1" 200 206 http-bio-8080-exec-1 222
+0:0:0:0:0:0:0:1 - - [02/Dec/2017:22:41:43 +0700] "GET /FoodQuality/getProductbyRefID/ProID/ProID00001 HTTP/1.1" 200 1194 http-bio-8080-exec-1 472
+0:0:0:0:0:0:0:1 - - [02/Dec/2017:23:02:49 +0700] "GET /FoodQuality//getAllTransporter HTTP/1.1" 200 2213 http-bio-8080-exec-3 355
+0:0:0:0:0:0:0:1 - - [02/Dec/2017:23:03:07 +0700] "GET /FoodQuality/getAllTransporter HTTP/1.1" 200 2213 http-bio-8080-exec-5 896
+0:0:0:0:0:0:0:1 - - [02/Dec/2017:23:04:34 +0700] "GET /FoodQuality/getAllSeller HTTP/1.1" 200 817 http-bio-8080-exec-7 251
+0:0:0:0:0:0:0:1 - - [02/Dec/2017:23:17:57 +0700] "POST /FoodQuality/report HTTP/1.1" 200 5 http-bio-8080-exec-9 1283
+0:0:0:0:0:0:0:1 - - [02/Dec/2017:23:23:17 +0700] "POST /FoodQuality/report HTTP/1.1" 500 4604 http-bio-8080-exec-1 516
+0:0:0:0:0:0:0:1 - - [02/Dec/2017:23:25:28 +0700] "POST /FoodQuality/report HTTP/1.1" 200 7 http-bio-8080-exec-1 729
+0:0:0:0:0:0:0:1 - - [02/Dec/2017:23:29:51 +0700] "POST /FoodQuality/report HTTP/1.1" 200 5 http-bio-8080-exec-3 444

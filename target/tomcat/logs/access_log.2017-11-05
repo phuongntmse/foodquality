@@ -1,0 +1,12 @@
+0:0:0:0:0:0:0:1 - - [05/Nov/2017:20:07:17 +0700] "POST /FoodQuality/changepwd HTTP/1.1" 200 18 http-bio-8080-exec-1 614
+0:0:0:0:0:0:0:1 - - [05/Nov/2017:20:10:14 +0700] "POST /FoodQuality/changepwd HTTP/1.1" 200 18 http-bio-8080-exec-3 7
+0:0:0:0:0:0:0:1 - - [05/Nov/2017:20:10:28 +0700] "POST /FoodQuality/changepwd HTTP/1.1" 200 18 http-bio-8080-exec-5 3
+0:0:0:0:0:0:0:1 - - [05/Nov/2017:20:11:21 +0700] "POST /FoodQuality/changepwd HTTP/1.1" 200 18 http-bio-8080-exec-7 5
+0:0:0:0:0:0:0:1 - - [05/Nov/2017:20:13:50 +0700] "POST /FoodQuality/changepwd HTTP/1.1" 403 70 http-bio-8080-exec-1 287
+0:0:0:0:0:0:0:1 - - [05/Nov/2017:21:23:25 +0700] "POST /FoodQuality/forgotpwd HTTP/1.1" 200 5 http-bio-8080-exec-1 4250
+0:0:0:0:0:0:0:1 - - [05/Nov/2017:21:45:03 +0700] "POST /FoodQuality/forgotpwd HTTP/1.1" 200 5 http-bio-8080-exec-1 571
+0:0:0:0:0:0:0:1 - - [05/Nov/2017:21:46:16 +0700] "POST /FoodQuality/forgotpwd HTTP/1.1" 200 5 http-bio-8080-exec-3 317
+0:0:0:0:0:0:0:1 - - [05/Nov/2017:21:50:42 +0700] "POST /FoodQuality/forgotpwd HTTP/1.1" 200 5 http-bio-8080-exec-1 640
+0:0:0:0:0:0:0:1 - - [05/Nov/2017:21:52:44 +0700] "POST /FoodQuality/forgotpwd HTTP/1.1" 200 5 http-bio-8080-exec-1 618
+0:0:0:0:0:0:0:1 - - [05/Nov/2017:21:59:50 +0700] "POST /FoodQuality/forgotpwd HTTP/1.1" 500 7017 http-bio-8080-exec-1 38980
+0:0:0:0:0:0:0:1 - - [05/Nov/2017:22:00:29 +0700] "POST /FoodQuality/forgotpwd HTTP/1.1" 200 5 http-bio-8080-exec-2 16831

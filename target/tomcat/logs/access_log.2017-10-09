@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [09/Oct/2017:03:58:58 +0700] "GET /FoodOrigin/product/1 HTTP/1.1" 404 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [09/Oct/2017:03:59:02 +0700] "GET /FoodOrigin/product/1 HTTP/1.1" 404 - http-bio-8080-exec-2 0
+0:0:0:0:0:0:0:1 - - [09/Oct/2017:03:59:19 +0700] "GET /FoodQuality/product/1 HTTP/1.1" 404 949 http-bio-8080-exec-4 124
+0:0:0:0:0:0:0:1 - - [09/Oct/2017:04:00:09 +0700] "GET /FoodQuality/product/1 HTTP/1.1" 404 949 http-bio-8080-exec-6 4
+0:0:0:0:0:0:0:1 - - [09/Oct/2017:04:00:13 +0700] "GET /FoodQuality/product/ HTTP/1.1" 404 949 http-bio-8080-exec-7 4
+0:0:0:0:0:0:0:1 - - [09/Oct/2017:04:00:19 +0700] "GET /FoodQuality/ HTTP/1.1" 200 52 http-bio-8080-exec-9 1681
+0:0:0:0:0:0:0:1 - - [09/Oct/2017:04:01:03 +0700] "GET /FoodQuality/product/2 HTTP/1.1" 404 949 http-bio-8080-exec-1 2
+0:0:0:0:0:0:0:1 - - [09/Oct/2017:04:02:52 +0700] "GET /FoodQuality/product/2 HTTP/1.1" 200 123 http-bio-8080-exec-2 13738
+0:0:0:0:0:0:0:1 - - [09/Oct/2017:04:03:12 +0700] "GET /FoodQuality/product/1 HTTP/1.1" 200 119 http-bio-8080-exec-4 9783
+0:0:0:0:0:0:0:1 - - [09/Oct/2017:23:30:48 +0700] "GET /FoodQuality/products HTTP/1.1" 200 234 http-bio-8080-exec-1 14443
+0:0:0:0:0:0:0:1 - - [09/Oct/2017:23:30:49 +0700] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [09/Oct/2017:23:31:36 +0700] "GET /FoodQuality/products.json HTTP/1.1" 200 170 http-bio-8080-exec-5 12589
+0:0:0:0:0:0:0:1 - - [09/Oct/2017:23:47:48 +0700] "GET /FoodOrigin/products HTTP/1.1" 404 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [09/Oct/2017:23:48:20 +0700] "GET /FoodQuality/products HTTP/1.1" 200 325 http-bio-8080-exec-3 14525

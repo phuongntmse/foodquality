@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [11/Oct/2017:14:34:49 +0700] "POST /FoodOrigin/product HTTP/1.1" 404 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [11/Oct/2017:14:35:23 +0700] "POST /FoodQuality/product HTTP/1.1" 200 14 http-bio-8080-exec-3 15469

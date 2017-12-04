@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [04/Dec/2017:11:47:09 +0700] "POST /FoodQuality/addRate HTTP/1.1" 404 989 http-bio-8080-exec-1 71
+0:0:0:0:0:0:0:1 - - [04/Dec/2017:11:47:47 +0700] "POST /FoodQuality/rating HTTP/1.1" 200 14 http-bio-8080-exec-3 603
+0:0:0:0:0:0:0:1 - - [04/Dec/2017:12:13:06 +0700] "GET /FoodQuality/rate/PID00001/UID00035 HTTP/1.1" 200 19 http-bio-8080-exec-1 634
+0:0:0:0:0:0:0:1 - - [04/Dec/2017:12:14:37 +0700] "GET /FoodQuality/rate/PID00001/UID00003 HTTP/1.1" 200 19 http-bio-8080-exec-3 1656
+0:0:0:0:0:0:0:1 - - [04/Dec/2017:22:25:02 +0700] "GET /FoodQuality/login/hoang6/123456 HTTP/1.1" 200 176 http-bio-8080-exec-1 469
+0:0:0:0:0:0:0:1 - - [04/Dec/2017:22:25:41 +0700] "GET /FoodQuality/login/beyton3/XbVMGNAN HTTP/1.1" 200 485 http-bio-8080-exec-3 447
